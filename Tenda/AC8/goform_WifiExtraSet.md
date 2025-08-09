@@ -26,7 +26,7 @@ Using our automated recurring vulnerability detection framework IoTBec, we found
         "vendor": "Tenda",
         "product": "AC18",
         "URI": "/goform/WifiExtraSet",
-        "form_parameter": "['wl_mode']",
+        "form_parameter": "['wl_mode', 'security', 'wpapsk_key', 'wpapsk_crypto']",
         "form_format": "key-value",
         "button": "Save",
         "navigation": "WiFi Settings->Wireless Repeating",
@@ -90,4 +90,5 @@ except Exception as e:
 ```
 
 ![image-20250809162649895](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809162649895.png)
+
 
