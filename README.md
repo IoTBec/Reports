@@ -9,8 +9,6 @@ Detailed information on all devices in our experiments can be found in [device_u
 
 ## 2. Vulnerability Reports
 
-IoTBec discovered a significant number of high- and medium-severity vulnerabilities during testing, some of which have been assigned CVE IDs.  
-**For security reasons**, we only disclose vulnerability reports for issues that have been confirmed as fixed in the latest product versions.  
-Each disclosed report includes the vulnerability type, affected scope, and verification process.
+IoTBec discovered a significant number of CRITICAL- and HIGH-severity vulnerabilities during testing, some of which have been assigned CVE IDs. **For security reasons**, we only disclose vulnerability reports for issues that have been confirmed as fixed in the latest product versions. Each disclosed report includes the vulnerability type, affected scope, and verification process.
 
 Additional reports will be released after the corresponding vulnerabilities have been patched by vendors.
