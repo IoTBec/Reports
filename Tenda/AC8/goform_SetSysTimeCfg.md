@@ -41,9 +41,9 @@ Using our automated recurring vulnerability detection framework IoTBec, we found
       // 2
       // 3
       // 4
-      // 5  
+      // 5
       // 6
-      // 7  
+      // 7
     ]
   },
 ```
@@ -87,5 +87,6 @@ except requests.exceptions.Timeout:
 except Exception as e:
     print("EXCEPTION:", str(e))
 ```
+
 
 ![image-20250809162514271](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809162514271.png)
