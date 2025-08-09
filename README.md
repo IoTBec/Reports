@@ -13,7 +13,7 @@ IoTBec discovered a significant number of CRITICAL- and HIGH-severity vulnerabil
 
 Available Reports:
 - [Tenda_AC8_goform_SetSysTimeCfg](https://github.com/IoTBec/Reports/blob/main/Tenda/AC8/goform_SetSysTimeCfg.md)
-- [Tenda_AC9_goform_WifiExtraSet](https://github.com/IoTBec/Reports/blob/main/Tenda/AC8/goform_WifiExtraSet.md)
+- [Tenda_AC8_goform_WifiExtraSet](https://github.com/IoTBec/Reports/blob/main/Tenda/AC8/goform_WifiExtraSet.md)
 
 |  ID   |        Firmware Version         | newly discovered |               URI               |     parameter     |      CVE ID       | CVSS3.x |   vul_type   | REAL Crash to device |
 | :---: | :-----------------------------: | :--------------: | :-----------------------------: | :---------------: | :---------------: | :-----: | :----------: | :------------------: |
