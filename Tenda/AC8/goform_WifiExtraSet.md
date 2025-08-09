@@ -37,12 +37,12 @@ Using our automated recurring vulnerability detection framework IoTBec, we found
       },
     "payloads": [
        # 1
-       # 2 
+       # 2
        "wl_mode=0&security=wpapsk&wpapsk_key=aaaaaaa&wpapsk_crypto=A*1000", // CRASH ⚠
        # 4
        # 5
        # 6
-       # 7  
+       # 7
     ]
 }
 ```
@@ -90,6 +90,7 @@ except Exception as e:
 ```
 
 ![image-20250809162649895](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809162649895.png)
+
 
 
 
