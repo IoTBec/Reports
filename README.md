@@ -5,7 +5,7 @@ This repository contains partial results and related materials from the IoTBec f
 ## 1. Test Devices
 
 We evaluated IoTBec on a variety of IoT devices from major vendors, including routers, range extenders, and switches.  
-Detailed information on all devices in our experiments can be found in [device_under_test.md](https://github.com/IoTBec/Surveys/device_under_test.md).
+Detailed information on all devices in our experiments can be found in [device_under_test.md](https://github.com/IoTBec/Surveys/blob/main/device_under_test.md).
 
 ## 2. Vulnerability Reports
 
